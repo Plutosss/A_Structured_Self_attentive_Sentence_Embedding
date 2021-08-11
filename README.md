@@ -1,0 +1,2 @@
+# A_Structured_Self_attentive_Sentence_Embedding
+这是飞桨论文复现挑战赛的repo，复现的论文是《A Structured Self-attentive Sentence Embedding》
